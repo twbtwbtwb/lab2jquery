@@ -1,0 +1,26 @@
+h2 {
+    color:white;
+    font-size:30px;
+}
+
+ul {
+    color:white;
+    font-size:18px;
+}
+
+li {
+    color:white;
+    font-size:18px;
+}
+
+form {
+    color:white;
+}
+
+#column1 {
+    background-color: DodgerBlue;
+}
+
+#column2 {
+    background-color: Silver;
+}
